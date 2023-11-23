@@ -1,0 +1,6 @@
+# .todox_dev: shellscript for development of todox
+
+abbrev-alias r="go run ."
+abbrev-alias b="go build ."
+
+alias tx="./todox"
