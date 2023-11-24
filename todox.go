@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/Def4Root/todox/cmd"
 )
 
 func main() {
-	fmt.Printf("Hello, World\n")
+	cmd.Execute()
 }
